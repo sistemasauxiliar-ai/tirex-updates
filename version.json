@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "androidUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.1/appTirex.apk",
   "windowsUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.1/TirexInstaller.exe",
   "notes": "Ahora compatible con actualizaciones automáticas en Windows y Android."
-}s
+}
