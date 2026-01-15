@@ -1,6 +1,6 @@
 {
-  "version": "0.2.1",
-  "androidUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.1/appTirex.apk",
-  "windowsUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.1/TirexInstaller.exe",
-  "notes": "Ahora compatible con actualizaciones automáticas en Windows y Android."
+  "version": "0.2.2",
+  "androidUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.2/appTirex.apk",
+  "windowsUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.2/TirexInstaller.exe",
+  "notes": "Mejora formato de límite de crédito en modulo de clientes. Mejoras al diseño de menu."
 }
