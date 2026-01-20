@@ -2,5 +2,5 @@
   "version": "0.2.4",
   "androidUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.4/appTirex.apk",
   "windowsUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.4/TirexInstaller.exe",
-  "notes": "Se corrigieron errores de la aplicación y se agregaron nuevas funciones para mejorar la experiencia del usuario en el modulo de Clientes."
+  "notes": "Actualización módulo inventario, Actualización en módulo de ventas en la sección de clientes."
 }
