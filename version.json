@@ -1,6 +1,6 @@
 {
-  "version": "0.2.3",
-  "androidUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.3/appTirex.apk",
-  "windowsUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.3/TirexInstaller.exe",
-  "notes": "Mejoras al diseño de varias paginas y corrección de errores menores."
+  "version": "0.2.4",
+  "androidUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.4/appTirex.apk",
+  "windowsUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.4/TirexInstaller.exe",
+  "notes": "Se corrigieron errores de la aplicación y se agregaron nuevas funciones para mejorar la experiencia del usuario en el modulo de Clientes."
 }
