@@ -1,6 +1,6 @@
 {
-  "version": "0.2.4",
-  "androidUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.4/appTirex.apk",
-  "windowsUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v0.2.4/TirexInstaller.exe",
-  "notes": "Actualización módulo inventario, Actualización en módulo de ventas en la sección de clientes."
+  "version": "0.2.5",
+  "androidUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v.0.2.5/appTirex.apk",
+  "windowsUrl": "https://github.com/sistemasauxiliar-ai/tirex-updates/releases/download/v.0.2.5/TirexInstaller.exe",
+  "notes": "Se agrego filtros extras para los clientes y se mejoro la estabilidad de la aplicacion."
 }
